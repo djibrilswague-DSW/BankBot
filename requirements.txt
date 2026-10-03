@@ -1,0 +1,8 @@
+scikit-learn
+pandas
+sentence-transformers
+faiss-cpu
+gradio==5.49.1
+python-dotenv
+joblib
+ollama

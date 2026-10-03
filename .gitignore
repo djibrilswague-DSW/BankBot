@@ -1,0 +1,24 @@
+# Environnement Python
+.venv/
+__pycache__/
+*.pyc
+
+# Modèles entraînés
+*.joblib
+
+# Données BANKING77
+data/banking77_train.csv
+data/banking77_test.csv
+
+# Index généré
+data/*.index
+
+# Variables d'environnement
+.env
+
+# Logs
+*.log
+
+# Fichiers système
+.DS_Store
+Thumbs.db

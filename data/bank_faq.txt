@@ -1,0 +1,54 @@
+CARTE BANCAIRE
+
+Livraison de la carte :
+Une carte bancaire est généralement livrée sous 5 à 7 jours ouvrés après la commande.
+Si la carte n'est toujours pas reçue après ce délai, le client peut contacter le service client.
+
+Carte bancaire non fonctionnelle :
+Si la carte bancaire ne fonctionne pas, vérifiez d'abord qu'elle n'est pas expirée et que les paiements sont autorisés.
+Si le problème persiste, contactez le service client.
+
+Carte perdue ou volée :
+En cas de perte ou de vol, la carte doit être bloquée rapidement afin d'éviter toute utilisation frauduleuse.
+
+Code PIN :
+Le code PIN peut être modifié depuis l'application bancaire dans la rubrique dédiée à la carte.
+Après plusieurs codes PIN incorrects, la carte peut être temporairement bloquée.
+
+PAIEMENTS
+
+Paiement non reconnu :
+Si un paiement apparaît sur le compte et n'est pas reconnu, vérifiez d'abord la date et le montant de la transaction.
+Si le paiement reste inconnu, contactez rapidement le service client.
+
+Paiement refusé :
+Un paiement peut être refusé en raison d'un solde insuffisant, d'une limite de paiement atteinte ou d'un problème avec la carte.
+
+Paiement en double :
+Si une même transaction apparaît deux fois, vérifiez d'abord si l'une des opérations est seulement temporaire.
+En cas de double débit confirmé, contactez le service client.
+
+VIREMENTS
+
+Virement non reçu :
+Un virement peut nécessiter plusieurs jours ouvrés avant d'être crédité.
+Si le délai habituel est dépassé, vérifiez les informations du bénéficiaire et contactez le service client.
+
+Virement refusé :
+Un virement peut être refusé en raison d'informations incorrectes, d'un bénéficiaire non autorisé ou d'un problème technique.
+
+COMPTE
+
+Mot de passe oublié :
+Si vous avez oublié votre mot de passe, utilisez la procédure de récupération depuis l'application bancaire.
+
+Vérification d'identité :
+La vérification d'identité permet de sécuriser le compte et de protéger les opérations bancaires.
+
+APPROVISIONNEMENT
+
+Approvisionner le compte :
+Le compte peut être approvisionné par carte bancaire ou par virement bancaire selon les moyens disponibles.
+
+Échec d'un approvisionnement :
+Si un approvisionnement échoue, vérifiez les informations de la carte, le solde disponible et les limites d'approvisionnement.
